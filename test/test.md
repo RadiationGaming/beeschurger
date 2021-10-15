@@ -1,1 +1,1 @@
-Beans taste ok.
+Beans taste okay.
